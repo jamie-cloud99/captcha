@@ -1,3 +1,7 @@
+# Captcha
+
+Inspired by [react-captcha-generator](https://github.com/Navid-Mousavizdeh/react-captcha-generator)
+
 # Bun + React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
